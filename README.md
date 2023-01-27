@@ -49,5 +49,12 @@ Here are some ideas to get you started:
   
 </div>
 
+
+<h3 align="left">My Activity:</h3>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=meeran03&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=meeran03&theme=dark&hide_border=true" width = 400>
+</p>
+
 ---
 
