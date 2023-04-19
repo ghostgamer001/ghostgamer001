@@ -48,16 +48,18 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   
 </div>
-
 ## My Programming Languages
 
-![Python](https://img.shields.io/badge/Python-40%25-green)
-![JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow)
+![Python](https://img.shields.io/badge/Python-35%25-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-15%25-yellow)
 ![HTML](https://img.shields.io/badge/HTML-10%25-red)
 ![CSS](https://img.shields.io/badge/CSS-10%25-blue)
-![C++](https://img.shields.io/badge/C++-10%25-orange)
-![C](https://img.shields.io/badge/C-5%25-purple)
-![C#](https://img.shields.io/badge/C%23-5%25-blue)
+![Java](https://img.shields.io/badge/Java-10%25-orange)
+![C++](https://img.shields.io/badge/C++-10%25-lightgrey)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-5%25-orange)
+![C](https://img.shields.io/badge/C-2.5%25-purple)
+![C#](https://img.shields.io/badge/C%23-2.5%25-blue)
+
 
 
 <h3 align="left">My Activity:</h3>
