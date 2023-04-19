@@ -49,6 +49,16 @@ Here are some ideas to get you started:
   
 </div>
 
+## My Programming Languages
+
+![Python](https://img.shields.io/badge/Python-40%25-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow)
+![HTML](https://img.shields.io/badge/HTML-10%25-red)
+![CSS](https://img.shields.io/badge/CSS-10%25-blue)
+![C++](https://img.shields.io/badge/C++-10%25-orange)
+![C](https://img.shields.io/badge/C-5%25-purple)
+![C#](https://img.shields.io/badge/C%23-5%25-blue)
+
 
 <h3 align="left">My Activity:</h3>
 <p align = "center">
