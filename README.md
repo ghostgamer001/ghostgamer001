@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Development ,Data Science and cybersecurity
-- 🌱 I’m currently learning api's and next.js
+- 🌱 I’m currently learning api's and react.js
 - 👯 I’m looking to collaborate on data science and cybersec projects
-- 💬 Ask me about data science, cybersecurity and competitve programming
+- 💬 Ask me about data science, cybersecurity and  programming
 <!--
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
